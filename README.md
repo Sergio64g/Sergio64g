@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+Hello there! Welcome to my profile! I'm a passionate software developer with a thirst for learning new technologies and exploring the endless possibilities of the tech world. Aspiring to become a DevOps expert
 
 
 # 🛠️ Tech Stack:
@@ -35,7 +35,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio64g&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio64g&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -46,4 +46,4 @@
 📫 Reach me on
 --------------
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio64garciar/) [![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio64garciar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sergio64garciar@gmail.com)
