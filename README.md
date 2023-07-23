@@ -43,7 +43,8 @@ Hello there! Welcome to my profile! I'm a passionate software developer with a t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+## Roadmap.sh
+<a href="https://roadmap.sh" style="align: center;"><img src="https://api.roadmap.sh/v1-badge/tall/64b8f9aa8a29ad56fa9a4d11?variant=dark" alt="roadmap.sh"/></a>
 
 📫 Reach me on
 --------------
